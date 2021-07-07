@@ -1,4 +1,4 @@
-<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/Sizzeh/mojang-api-js/main/media/Mojang-Logo.png" width="400"/></p>
+<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/Sizzeh/mojang-api-js/main/media/logo.png" width="400"/></p>
 
 > A light Monjang Puplic API client for Node.js
 
