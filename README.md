@@ -42,13 +42,13 @@ get name history of a player using uuid or name
     console.log(await client.nameHistory('3ec97906910744b5a5e12d7788aed017'))
     console.log(await client.nameHistory('sizzeh'))
     /**
-     * [
-     *  { name: 'SizzyPvP' },
-     *  { name: 'SizzyNF', changedToAt: 1566059031000 },
-     *  { name: 'Sizzeh', changedToAt: 1574568684000 },
-     *  { name: 'BUNNYGIRLSIZ', changedToAt: 1618557765000 },
-     *  { name: 'Sizzeh', changedToAt: 1621180475000 }
-     *  ]
+    * [
+    *  { name: 'SizzyPvP' },
+    *  { name: 'SizzyNF', changedToAt: 1566059031000 },
+    *  { name: 'Sizzeh', changedToAt: 1574568684000 },
+    *  { name: 'BUNNYGIRLSIZ', changedToAt: 1618557765000 },
+    *  { name: 'Sizzeh', changedToAt: 1621180475000 }
+    *  ]
     */
 })();
 ```
@@ -82,16 +82,16 @@ Return status of various Mojang services.
 ;(async () => {
     console.log(await client.getStatus());
     /**
-     * [
-     *  { 'minecraft.net': 'red' },
-     *  { 'session.minecraft.net': 'green' },
-     *  { 'account.mojang.com': 'green' },
-     *  { 'authserver.mojang.com': 'green' },
-     *  { 'sessionserver.mojang.com': 'red' },
-     *  { 'api.mojang.com': 'green' },
-     *  { 'textures.minecraft.net': 'green' },
-     *  { 'mojang.com': 'red' }
-     * ]
+    * [
+    *  { 'minecraft.net': 'red' },
+    *  { 'session.minecraft.net': 'green' },
+    *  { 'account.mojang.com': 'green' },
+    *  { 'authserver.mojang.com': 'green' },
+    *  { 'sessionserver.mojang.com': 'red' },
+    *  { 'api.mojang.com': 'green' },
+    *  { 'textures.minecraft.net': 'green' },
+    *  { 'mojang.com': 'red' }
+    * ]
     */
 })();
 ```
