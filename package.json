@@ -1,0 +1,15 @@
+{
+  "name": "mojang-api-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sizzeh",
+  "license": "ISC",
+  "dependencies": {
+    "centra": "^2.4.2"
+  }
+}
