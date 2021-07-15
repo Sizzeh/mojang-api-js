@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/Sizzeh/mojang-api-js) | [NPM](https://www.npmjs.com/package/mojang-api-js)
 
-<img src="https://nodei.co/npm/mojang-api-js/">
+<div align="center"><a href="https://nodei.co/npm/mojang-api-js/"><img src="https://nodei.co/npm/mojang-api-js.png?downloads=true&stars=true" alt="NPM info"></a></div>
 
 ## Install
 
