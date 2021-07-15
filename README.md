@@ -1,8 +1,10 @@
-<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/Sizzeh/mojang-api-js/main/media/logo.png" width="400"/></p>
+<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/Sizzeh/mojang-api-js/main/media/logo.png" width="200"/></p>
 
 > A light Monjang Puplic API client for Node.js
 
 [GitHub](https://github.com/Sizzeh/mojang-api-js) | [NPM](https://www.npmjs.com/package/mojang-api-js)
+
+<img src="https://nodei.co/npm/mojang-api-js/">
 
 ## Install
 

@@ -16,7 +16,7 @@ class Client {
     async getStatus() {
         const res = await c(baseStatus + 'check').send()
         const json = await res.json();
-
+        
         if (json) {
 			return json;
 		} else throw new Error(res.statusCode);
